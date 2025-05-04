@@ -32,3 +32,6 @@ Building and deploying the frontend with Vite for fast development.
 The project demonstrates practical implementation of Human-Computer Interaction (HCI) and Natural Language Processing (NLP) concepts, all within a modern frontend framework. It exemplifies how AI capabilities can be embedded in web applications without requiring backend processing, ensuring a fast and lightweight user experience.
 
 Through this internship at Codetech IT Solutions, I gained hands-on experience in AI-powered UI design, speech recognition integration, and frontend deployment. With mentorship from Neela Santosh, I was able to enhance my technical problem-solving, code organization, and real-world application development skills in just four weeks.
+
+## OUTPUT ##
+![Image](https://github.com/user-attachments/assets/5adfaf1d-c1b5-4f68-bb5e-37c6f4acbc46)
